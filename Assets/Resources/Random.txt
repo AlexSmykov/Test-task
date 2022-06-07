@@ -1,0 +1,4 @@
+loop:1
+random:true
+time:15
+30

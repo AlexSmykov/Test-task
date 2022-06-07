@@ -1,0 +1,4 @@
+repository "Test task@local"
+  path "/"
+    br "/main"
+    co "/main"
