@@ -43,3 +43,5 @@ time:15
 - <https://drive.google.com/uc?export=download&id=1Lu_fX0r_8dE5IGs-EBwenYCxDJAfKree> - полученная в итоге ссылка, которая корректно работает с приложением
 
 ### Пожалуйста, проверяйте корректность ссылок перед использованием
+
+Прямая ссылка на скачивание рабочего билда: <https://github.com/DiabloZX/Test-task/releases/tag/Release>
